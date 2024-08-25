@@ -35,8 +35,8 @@ I am currently pursuing a Diploma in Information Technology at Sunway College, M
 ## 📈 My Contributions
 
 <p align="center">
-  <img height="194em" src="https://github-readme-streak-stats.herokuapp.com?user=i4gs&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4gs&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=i4gs&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4gs&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Others
