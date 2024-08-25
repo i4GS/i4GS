@@ -1,6 +1,6 @@
 # Hey, I'm Bei 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=i4GS)
 
 ## 🧑🏻‍💻 About Me
 I am currently pursuing a Diploma in Information Technology at Sunway College, Malaysia. I am passionate about coding and always eager to learn a new things. My journey in tech is driven by a love for problem-solving and creating innovative solutions.
