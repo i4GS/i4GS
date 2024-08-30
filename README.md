@@ -1,4 +1,4 @@
-# Hey, I'm Bei 
+<h1 align="center"> Hey, I'm Bei (i4GS) </h1>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=i4GS)
 
